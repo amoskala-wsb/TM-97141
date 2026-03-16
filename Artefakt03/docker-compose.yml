@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  appium:
+    image: appium/appium
+    ports:
+      - "4723:4723"
