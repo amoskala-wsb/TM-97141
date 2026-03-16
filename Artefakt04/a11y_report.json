@@ -1,0 +1,7 @@
+[
+    {
+        "file": "layout\\text_fields.xml",
+        "tag": "TextView",
+        "text": "@string/edit_text_password"
+    }
+]
