@@ -1,6 +1,6 @@
 # 🛡️ RAPORT STABILNOŚCI I ODPORNOŚCI UI
 **Moduł:** Blok 7 - Gesty i Interakcje Systemowe
-**Tester:** [Twoje Imię i Numer Studneta]
+**Tester:** Adam 97141
 
 ---
 
@@ -26,5 +26,5 @@
 
 **Data audytu:** Np. 23-03-2026
 **Status końcowy:** 🟢 SYSTEM STABILNY
-**Wykonał (Adam Moskała, 97141):** 
+**Wykonał (Adam, 97141):** 
  
